@@ -23,10 +23,18 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/3e5e59177dac4703a1b7a256c3a5c090">
+    </a>
+    <a href="https://www.loom.com/share/3e5e59177dac4703a1b7a256c3a5c090">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3e5e59177dac4703a1b7a256c3a5c090-with-play.gif">
+    </a>
+  </div>
+      
 https://www.loom.com/share/59c473a4d4d24915ac32f14c4bcd980b
 https://www.loom.com/share/3e5e59177dac4703a1b7a256c3a5c090?sid=b7b7e528-3761-4296-a08f-27a244888674
 
--in the videoo I run a demo of my wordle app. The word that was eventually found was 'Wings' and the incorporation of yellow, green, and black was present in the video. The second video will incorporate the use of the delete button also as it was absent in the first one.
+-in the video I run a demo of my wordle app. The word that was eventually found was 'Wings' and the incorporation of yellow, green, and black was present in the video. The second video will incorporate the use of the delete button also as it was absent in the first one.
 
 
 ## Notes
