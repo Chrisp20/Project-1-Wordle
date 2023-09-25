@@ -1,5 +1,5 @@
 Wordlepart2
-# Project 2 - Wordle Part 2 (settings)
+# UNIT 2 - Wordle Part 2 (settings)
 
 Submitted by: Christopher Petit
 
