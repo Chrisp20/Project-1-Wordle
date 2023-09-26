@@ -32,6 +32,8 @@ original:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/120ad02fbc124ab9a9a334b5f38ad61d-with-play.gif">
     </a>
   </div>
+
+  
   condensed:
   <div>
     <a href="https://www.loom.com/share/f4db29ff3cc146e887e36bfdba4caf73">
